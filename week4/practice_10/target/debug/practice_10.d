@@ -1,0 +1,1 @@
+C:\Users\Odinaka\OneDrive\Desktop\IMPORTANT\ DOCUMENTS!!!\SCHOOL\COS\ 101\O.Ife-MbonuCOS101\week4\practice_10\target\debug\practice_10.exe: C:\Users\Odinaka\OneDrive\Desktop\IMPORTANT\ DOCUMENTS!!!\SCHOOL\COS\ 101\O.Ife-MbonuCOS101\week4\practice_10\src\main.rs
