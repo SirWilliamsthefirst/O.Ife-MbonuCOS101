@@ -36,13 +36,13 @@ loop{
     if price.trim() == "p"{
         cost+=3200;
     }else if price.trim() == "f"{
-        cost +=3200;
+        cost +=3000;
     }else if price.trim() == "a"{
-        cost +=3200;
+        cost +=2500;
     }else if price.trim() == "e"{
-        cost +=3200;
+        cost +=2000;
     }else if price.trim() == "w"{
-        cost +=3200;
+        cost +=2500;
     }else{
         break;
     }

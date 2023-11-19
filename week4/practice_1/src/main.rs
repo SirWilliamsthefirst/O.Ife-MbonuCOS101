@@ -8,4 +8,4 @@
     let department:&'static str =  "Computer science";
     let school:&'static str = "School of science and technology";
     println!("department: {},\nSchool: {}",department,school);
-}
+}b
