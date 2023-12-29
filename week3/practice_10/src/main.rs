@@ -8,7 +8,7 @@ fn main() {
     println!("The difference of 95.5 and 4.3 = {}",difference);
 
     //multiplication
-    let multiplication:u64 = 4 * 30; 
+    let multiplication:f64 = 4.0 * 30.0; 
     println!("the multiplication of 4 and 30 = {}",multiplication);
 
     // divison
