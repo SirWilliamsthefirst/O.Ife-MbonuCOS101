@@ -4,7 +4,8 @@ fn main() {
     println!("array size is :{}", arr.len());
 
     for val in arr.iter(){
-        println!("value is: {}", val);
+
+        println!("value is :{}",val);
 
     }
 }

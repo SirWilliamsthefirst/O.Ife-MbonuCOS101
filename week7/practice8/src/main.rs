@@ -3,7 +3,7 @@ fn main() {
     println!("array is {:?}", city_arr);
     println!("array size is: {}", city_arr.len());
 
-    for index in 0..5{
-        println!("City index {} is located in: {}", index, city_arr[index]);
+    for index in 0..5 {
+        println!("city index {} is located in : {}",index,city_arr[index]);
     }
 }

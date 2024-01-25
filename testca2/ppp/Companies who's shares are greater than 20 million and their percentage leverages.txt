@@ -1,0 +1,6 @@
+	COMPANY NAAMES		COMPANY PERCENTAGE LEVERAGES(%)
+1) Champion Breweries Plc	 68
+2) Flour Mills Nigeria Plc	 87.50
+3) Unilever Nigeria Plc	 70.27
+4) Honeywell Nigeria Plc	 73.53
+5) Nigerain Breweries Plc	 60
